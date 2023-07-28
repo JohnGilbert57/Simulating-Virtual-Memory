@@ -1,0 +1,62 @@
+Page size: 1
+Num frames: 3
+Num pages: 5
+Num backing blocks: 10
+Reclaim algorithm: LRU
+Current Instructions: r 0
+Requested Page: 0 Requested Page Index: 0
+Next Usable Frame LRU: 0
+Current Instructions: r 1
+Requested Page: 1 Requested Page Index: 0
+Next Usable Frame LRU: 1
+Current Instructions: r 2
+Requested Page: 2 Requested Page Index: 0
+Next Usable Frame LRU: 2
+Current Instructions: r 3
+Requested Page: 3 Requested Page Index: 0
+Next Usable Frame LRU: 0
+Frame taken from page: 0
+Current Instructions: r 0
+Requested Page: 0 Requested Page Index: 0
+Next Usable Frame LRU: 1
+Frame taken from page: 1
+Current Instructions: r 1
+Requested Page: 1 Requested Page Index: 0
+Next Usable Frame LRU: 2
+Frame taken from page: 2
+Current Instructions: r 4
+Requested Page: 4 Requested Page Index: 0
+Next Usable Frame LRU: 0
+Frame taken from page: 3
+Current Instructions: r 0
+Requested Page: 0 Requested Page Index: 0
+Current Instructions: r 1
+Requested Page: 1 Requested Page Index: 0
+Current Instructions: r 2
+Requested Page: 2 Requested Page Index: 0
+Next Usable Frame LRU: 0
+Frame taken from page: 4
+Current Instructions: r 3
+Requested Page: 3 Requested Page Index: 0
+Next Usable Frame LRU: 1
+Frame taken from page: 0
+Current Instructions: r 4
+Requested Page: 4 Requested Page Index: 0
+Next Usable Frame LRU: 2
+Frame taken from page: 1
+Page Table
+    0 type:TAKEN framenum:-1 ondisk:0
+    1 type:TAKEN framenum:-1 ondisk:0
+    2 type:MAPPED framenum:0 ondisk:0
+    3 type:MAPPED framenum:1 ondisk:0
+    4 type:MAPPED framenum:2 ondisk:0
+Frame Table
+    0 inuse:1 dirty:0 first_use:10 last_use:10
+    1 inuse:1 dirty:0 first_use:11 last_use:11
+    2 inuse:1 dirty:0 first_use:12 last_use:12
+Pages referenced: 12
+Pages mapped: 5
+Page misses: 10
+Frames taken: 7
+Frames written to disk: 0
+Frames recovered from disk: 0

@@ -1,0 +1,17 @@
+# example input file from the project handout
+1024 4 11 10
+w 0
+w 1024
+w 2048
+w 3072
+w 4096
+w 5120
+w 6144
+w 7168
+w 8192
+w 9216
+r 0
+r 1024
+r 2048
+r 3072
+r 4096

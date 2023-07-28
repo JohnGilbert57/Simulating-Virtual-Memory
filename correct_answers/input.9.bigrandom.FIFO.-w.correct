@@ -1,0 +1,1216 @@
+Page size: 1
+Num frames: 99
+Num pages: 100
+Num backing blocks: 1000
+Reclaim algorithm: FIFO
+Page Table
+    0 type:MAPPED framenum:8 ondisk:0
+    1 type:MAPPED framenum:11 ondisk:0
+    2 type:MAPPED framenum:44 ondisk:0
+    3 type:TAKEN framenum:-1 ondisk:0
+    4 type:MAPPED framenum:16 ondisk:0
+    5 type:MAPPED framenum:45 ondisk:0
+    6 type:MAPPED framenum:89 ondisk:0
+    7 type:MAPPED framenum:91 ondisk:0
+    8 type:MAPPED framenum:25 ondisk:0
+    9 type:MAPPED framenum:14 ondisk:0
+   10 type:MAPPED framenum:47 ondisk:0
+   11 type:MAPPED framenum:51 ondisk:0
+   12 type:MAPPED framenum:21 ondisk:0
+   13 type:MAPPED framenum:94 ondisk:0
+   14 type:MAPPED framenum:41 ondisk:0
+   15 type:MAPPED framenum:56 ondisk:0
+   16 type:MAPPED framenum:59 ondisk:0
+   17 type:MAPPED framenum:73 ondisk:0
+   18 type:MAPPED framenum:9 ondisk:0
+   19 type:MAPPED framenum:30 ondisk:0
+   20 type:MAPPED framenum:24 ondisk:0
+   21 type:MAPPED framenum:93 ondisk:0
+   22 type:MAPPED framenum:61 ondisk:0
+   23 type:MAPPED framenum:12 ondisk:0
+   24 type:MAPPED framenum:58 ondisk:0
+   25 type:MAPPED framenum:7 ondisk:0
+   26 type:MAPPED framenum:52 ondisk:0
+   27 type:MAPPED framenum:50 ondisk:0
+   28 type:MAPPED framenum:78 ondisk:0
+   29 type:MAPPED framenum:92 ondisk:0
+   30 type:MAPPED framenum:10 ondisk:0
+   31 type:MAPPED framenum:98 ondisk:0
+   32 type:MAPPED framenum:35 ondisk:0
+   33 type:MAPPED framenum:95 ondisk:0
+   34 type:MAPPED framenum:79 ondisk:0
+   35 type:MAPPED framenum:81 ondisk:0
+   36 type:MAPPED framenum:15 ondisk:0
+   37 type:MAPPED framenum:29 ondisk:0
+   38 type:MAPPED framenum:3 ondisk:0
+   39 type:MAPPED framenum:70 ondisk:0
+   40 type:MAPPED framenum:77 ondisk:0
+   41 type:MAPPED framenum:90 ondisk:0
+   42 type:MAPPED framenum:43 ondisk:0
+   43 type:MAPPED framenum:18 ondisk:0
+   44 type:MAPPED framenum:26 ondisk:0
+   45 type:MAPPED framenum:54 ondisk:0
+   46 type:MAPPED framenum:38 ondisk:0
+   47 type:MAPPED framenum:49 ondisk:0
+   48 type:MAPPED framenum:32 ondisk:0
+   49 type:MAPPED framenum:4 ondisk:0
+   50 type:MAPPED framenum:17 ondisk:0
+   51 type:MAPPED framenum:22 ondisk:0
+   52 type:MAPPED framenum:6 ondisk:0
+   53 type:MAPPED framenum:28 ondisk:0
+   54 type:MAPPED framenum:86 ondisk:0
+   55 type:MAPPED framenum:36 ondisk:0
+   56 type:MAPPED framenum:31 ondisk:0
+   57 type:MAPPED framenum:13 ondisk:0
+   58 type:MAPPED framenum:42 ondisk:0
+   59 type:MAPPED framenum:5 ondisk:0
+   60 type:MAPPED framenum:1 ondisk:0
+   61 type:MAPPED framenum:60 ondisk:0
+   62 type:MAPPED framenum:67 ondisk:0
+   63 type:MAPPED framenum:65 ondisk:0
+   64 type:MAPPED framenum:96 ondisk:0
+   65 type:MAPPED framenum:27 ondisk:0
+   66 type:MAPPED framenum:68 ondisk:0
+   67 type:MAPPED framenum:48 ondisk:0
+   68 type:MAPPED framenum:88 ondisk:0
+   69 type:MAPPED framenum:85 ondisk:0
+   70 type:MAPPED framenum:20 ondisk:0
+   71 type:MAPPED framenum:84 ondisk:0
+   72 type:MAPPED framenum:83 ondisk:0
+   73 type:MAPPED framenum:2 ondisk:0
+   74 type:MAPPED framenum:97 ondisk:0
+   75 type:MAPPED framenum:69 ondisk:0
+   76 type:MAPPED framenum:76 ondisk:0
+   77 type:MAPPED framenum:63 ondisk:0
+   78 type:MAPPED framenum:64 ondisk:0
+   79 type:MAPPED framenum:82 ondisk:0
+   80 type:MAPPED framenum:19 ondisk:0
+   81 type:MAPPED framenum:40 ondisk:0
+   82 type:MAPPED framenum:57 ondisk:0
+   83 type:MAPPED framenum:72 ondisk:0
+   84 type:MAPPED framenum:66 ondisk:0
+   85 type:MAPPED framenum:34 ondisk:0
+   86 type:MAPPED framenum:74 ondisk:0
+   87 type:MAPPED framenum:71 ondisk:0
+   88 type:MAPPED framenum:55 ondisk:0
+   89 type:MAPPED framenum:33 ondisk:0
+   90 type:MAPPED framenum:37 ondisk:0
+   91 type:MAPPED framenum:23 ondisk:0
+   92 type:MAPPED framenum:0 ondisk:0
+   93 type:MAPPED framenum:62 ondisk:0
+   94 type:MAPPED framenum:39 ondisk:0
+   95 type:MAPPED framenum:87 ondisk:0
+   96 type:MAPPED framenum:46 ondisk:0
+   97 type:MAPPED framenum:75 ondisk:0
+   98 type:MAPPED framenum:80 ondisk:0
+   99 type:MAPPED framenum:53 ondisk:0
+Frame Table
+    0 inuse:1 dirty:0 first_use:990970 last_use:999894
+    1 inuse:1 dirty:0 first_use:991028 last_use:999825
+    2 inuse:1 dirty:0 first_use:991221 last_use:999995
+    3 inuse:1 dirty:0 first_use:991307 last_use:999901
+    4 inuse:1 dirty:0 first_use:991508 last_use:999744
+    5 inuse:1 dirty:0 first_use:991518 last_use:999999
+    6 inuse:1 dirty:0 first_use:991654 last_use:999990
+    7 inuse:1 dirty:0 first_use:991746 last_use:999997
+    8 inuse:1 dirty:0 first_use:991808 last_use:999989
+    9 inuse:1 dirty:0 first_use:991972 last_use:999710
+   10 inuse:1 dirty:0 first_use:992071 last_use:999992
+   11 inuse:1 dirty:0 first_use:992080 last_use:999960
+   12 inuse:1 dirty:0 first_use:992185 last_use:999981
+   13 inuse:1 dirty:0 first_use:992417 last_use:999946
+   14 inuse:1 dirty:0 first_use:992464 last_use:999475
+   15 inuse:1 dirty:0 first_use:992485 last_use:999928
+   16 inuse:1 dirty:0 first_use:992554 last_use:999801
+   17 inuse:1 dirty:0 first_use:992613 last_use:999977
+   18 inuse:1 dirty:0 first_use:992698 last_use:999761
+   19 inuse:1 dirty:0 first_use:992867 last_use:999893
+   20 inuse:1 dirty:0 first_use:992874 last_use:999971
+   21 inuse:1 dirty:0 first_use:992972 last_use:999795
+   22 inuse:1 dirty:0 first_use:993126 last_use:999966
+   23 inuse:1 dirty:0 first_use:993177 last_use:999954
+   24 inuse:1 dirty:0 first_use:993200 last_use:999873
+   25 inuse:1 dirty:0 first_use:993431 last_use:999680
+   26 inuse:1 dirty:0 first_use:993470 last_use:999942
+   27 inuse:1 dirty:0 first_use:993829 last_use:999920
+   28 inuse:1 dirty:0 first_use:993927 last_use:999948
+   29 inuse:1 dirty:0 first_use:993966 last_use:999877
+   30 inuse:1 dirty:0 first_use:994098 last_use:999759
+   31 inuse:1 dirty:0 first_use:994211 last_use:999969
+   32 inuse:1 dirty:0 first_use:994324 last_use:1000000
+   33 inuse:1 dirty:0 first_use:994524 last_use:999979
+   34 inuse:1 dirty:0 first_use:994567 last_use:999950
+   35 inuse:1 dirty:0 first_use:994644 last_use:999800
+   36 inuse:1 dirty:0 first_use:994653 last_use:999714
+   37 inuse:1 dirty:0 first_use:994929 last_use:999853
+   38 inuse:1 dirty:0 first_use:994955 last_use:999945
+   39 inuse:1 dirty:0 first_use:995015 last_use:999921
+   40 inuse:1 dirty:0 first_use:995099 last_use:999915
+   41 inuse:1 dirty:0 first_use:995432 last_use:999918
+   42 inuse:1 dirty:0 first_use:995436 last_use:999805
+   43 inuse:1 dirty:0 first_use:995459 last_use:999973
+   44 inuse:1 dirty:0 first_use:995584 last_use:999892
+   45 inuse:1 dirty:0 first_use:995588 last_use:999975
+   46 inuse:1 dirty:0 first_use:995649 last_use:999970
+   47 inuse:1 dirty:0 first_use:995883 last_use:999998
+   48 inuse:1 dirty:0 first_use:995931 last_use:999951
+   49 inuse:1 dirty:0 first_use:995971 last_use:999952
+   50 inuse:1 dirty:0 first_use:996030 last_use:999754
+   51 inuse:1 dirty:0 first_use:996098 last_use:999988
+   52 inuse:1 dirty:0 first_use:996132 last_use:999993
+   53 inuse:1 dirty:0 first_use:996445 last_use:999884
+   54 inuse:1 dirty:0 first_use:996521 last_use:999905
+   55 inuse:1 dirty:0 first_use:996525 last_use:999878
+   56 inuse:1 dirty:0 first_use:996573 last_use:999931
+   57 inuse:1 dirty:0 first_use:996616 last_use:999964
+   58 inuse:1 dirty:0 first_use:996796 last_use:999874
+   59 inuse:1 dirty:0 first_use:997082 last_use:999879
+   60 inuse:1 dirty:0 first_use:997124 last_use:999812
+   61 inuse:1 dirty:0 first_use:997254 last_use:999909
+   62 inuse:1 dirty:0 first_use:997259 last_use:999978
+   63 inuse:1 dirty:0 first_use:997364 last_use:999984
+   64 inuse:1 dirty:0 first_use:997420 last_use:999972
+   65 inuse:1 dirty:0 first_use:997451 last_use:999809
+   66 inuse:1 dirty:0 first_use:997496 last_use:999834
+   67 inuse:1 dirty:0 first_use:997497 last_use:999983
+   68 inuse:1 dirty:0 first_use:997601 last_use:999974
+   69 inuse:1 dirty:0 first_use:997803 last_use:999941
+   70 inuse:1 dirty:0 first_use:997884 last_use:999896
+   71 inuse:1 dirty:0 first_use:997888 last_use:999934
+   72 inuse:1 dirty:0 first_use:997911 last_use:999936
+   73 inuse:1 dirty:0 first_use:997957 last_use:999864
+   74 inuse:1 dirty:0 first_use:998090 last_use:999379
+   75 inuse:1 dirty:0 first_use:998207 last_use:999797
+   76 inuse:1 dirty:0 first_use:998245 last_use:999958
+   77 inuse:1 dirty:0 first_use:998458 last_use:999850
+   78 inuse:1 dirty:0 first_use:998528 last_use:999912
+   79 inuse:1 dirty:0 first_use:998649 last_use:999843
+   80 inuse:1 dirty:0 first_use:998736 last_use:999959
+   81 inuse:1 dirty:0 first_use:999019 last_use:999963
+   82 inuse:1 dirty:0 first_use:999120 last_use:999994
+   83 inuse:1 dirty:0 first_use:999123 last_use:999752
+   84 inuse:1 dirty:0 first_use:999205 last_use:999700
+   85 inuse:1 dirty:0 first_use:999428 last_use:999838
+   86 inuse:1 dirty:0 first_use:999446 last_use:999982
+   87 inuse:1 dirty:0 first_use:999467 last_use:999908
+   88 inuse:1 dirty:0 first_use:999489 last_use:999932
+   89 inuse:1 dirty:0 first_use:999529 last_use:999996
+   90 inuse:1 dirty:0 first_use:999541 last_use:999944
+   91 inuse:1 dirty:0 first_use:999562 last_use:999986
+   92 inuse:1 dirty:0 first_use:999565 last_use:999967
+   93 inuse:1 dirty:0 first_use:999829 last_use:999829
+   94 inuse:1 dirty:0 first_use:999987 last_use:999987
+   95 inuse:1 dirty:0 first_use:990627 last_use:999898
+   96 inuse:1 dirty:0 first_use:990676 last_use:999947
+   97 inuse:1 dirty:0 first_use:990780 last_use:999935
+   98 inuse:1 dirty:0 first_use:990945 last_use:999923
+Backing Store Table
+    0 inuse:0
+    1 inuse:0
+    2 inuse:0
+    3 inuse:0
+    4 inuse:0
+    5 inuse:0
+    6 inuse:0
+    7 inuse:0
+    8 inuse:0
+    9 inuse:0
+   10 inuse:0
+   11 inuse:0
+   12 inuse:0
+   13 inuse:0
+   14 inuse:0
+   15 inuse:0
+   16 inuse:0
+   17 inuse:0
+   18 inuse:0
+   19 inuse:0
+   20 inuse:0
+   21 inuse:0
+   22 inuse:0
+   23 inuse:0
+   24 inuse:0
+   25 inuse:0
+   26 inuse:0
+   27 inuse:0
+   28 inuse:0
+   29 inuse:0
+   30 inuse:0
+   31 inuse:0
+   32 inuse:0
+   33 inuse:0
+   34 inuse:0
+   35 inuse:0
+   36 inuse:0
+   37 inuse:0
+   38 inuse:0
+   39 inuse:0
+   40 inuse:0
+   41 inuse:0
+   42 inuse:0
+   43 inuse:0
+   44 inuse:0
+   45 inuse:0
+   46 inuse:0
+   47 inuse:0
+   48 inuse:0
+   49 inuse:0
+   50 inuse:0
+   51 inuse:0
+   52 inuse:0
+   53 inuse:0
+   54 inuse:0
+   55 inuse:0
+   56 inuse:0
+   57 inuse:0
+   58 inuse:0
+   59 inuse:0
+   60 inuse:0
+   61 inuse:0
+   62 inuse:0
+   63 inuse:0
+   64 inuse:0
+   65 inuse:0
+   66 inuse:0
+   67 inuse:0
+   68 inuse:0
+   69 inuse:0
+   70 inuse:0
+   71 inuse:0
+   72 inuse:0
+   73 inuse:0
+   74 inuse:0
+   75 inuse:0
+   76 inuse:0
+   77 inuse:0
+   78 inuse:0
+   79 inuse:0
+   80 inuse:0
+   81 inuse:0
+   82 inuse:0
+   83 inuse:0
+   84 inuse:0
+   85 inuse:0
+   86 inuse:0
+   87 inuse:0
+   88 inuse:0
+   89 inuse:0
+   90 inuse:0
+   91 inuse:0
+   92 inuse:0
+   93 inuse:0
+   94 inuse:0
+   95 inuse:0
+   96 inuse:0
+   97 inuse:0
+   98 inuse:0
+   99 inuse:0
+  100 inuse:0
+  101 inuse:0
+  102 inuse:0
+  103 inuse:0
+  104 inuse:0
+  105 inuse:0
+  106 inuse:0
+  107 inuse:0
+  108 inuse:0
+  109 inuse:0
+  110 inuse:0
+  111 inuse:0
+  112 inuse:0
+  113 inuse:0
+  114 inuse:0
+  115 inuse:0
+  116 inuse:0
+  117 inuse:0
+  118 inuse:0
+  119 inuse:0
+  120 inuse:0
+  121 inuse:0
+  122 inuse:0
+  123 inuse:0
+  124 inuse:0
+  125 inuse:0
+  126 inuse:0
+  127 inuse:0
+  128 inuse:0
+  129 inuse:0
+  130 inuse:0
+  131 inuse:0
+  132 inuse:0
+  133 inuse:0
+  134 inuse:0
+  135 inuse:0
+  136 inuse:0
+  137 inuse:0
+  138 inuse:0
+  139 inuse:0
+  140 inuse:0
+  141 inuse:0
+  142 inuse:0
+  143 inuse:0
+  144 inuse:0
+  145 inuse:0
+  146 inuse:0
+  147 inuse:0
+  148 inuse:0
+  149 inuse:0
+  150 inuse:0
+  151 inuse:0
+  152 inuse:0
+  153 inuse:0
+  154 inuse:0
+  155 inuse:0
+  156 inuse:0
+  157 inuse:0
+  158 inuse:0
+  159 inuse:0
+  160 inuse:0
+  161 inuse:0
+  162 inuse:0
+  163 inuse:0
+  164 inuse:0
+  165 inuse:0
+  166 inuse:0
+  167 inuse:0
+  168 inuse:0
+  169 inuse:0
+  170 inuse:0
+  171 inuse:0
+  172 inuse:0
+  173 inuse:0
+  174 inuse:0
+  175 inuse:0
+  176 inuse:0
+  177 inuse:0
+  178 inuse:0
+  179 inuse:0
+  180 inuse:0
+  181 inuse:0
+  182 inuse:0
+  183 inuse:0
+  184 inuse:0
+  185 inuse:0
+  186 inuse:0
+  187 inuse:0
+  188 inuse:0
+  189 inuse:0
+  190 inuse:0
+  191 inuse:0
+  192 inuse:0
+  193 inuse:0
+  194 inuse:0
+  195 inuse:0
+  196 inuse:0
+  197 inuse:0
+  198 inuse:0
+  199 inuse:0
+  200 inuse:0
+  201 inuse:0
+  202 inuse:0
+  203 inuse:0
+  204 inuse:0
+  205 inuse:0
+  206 inuse:0
+  207 inuse:0
+  208 inuse:0
+  209 inuse:0
+  210 inuse:0
+  211 inuse:0
+  212 inuse:0
+  213 inuse:0
+  214 inuse:0
+  215 inuse:0
+  216 inuse:0
+  217 inuse:0
+  218 inuse:0
+  219 inuse:0
+  220 inuse:0
+  221 inuse:0
+  222 inuse:0
+  223 inuse:0
+  224 inuse:0
+  225 inuse:0
+  226 inuse:0
+  227 inuse:0
+  228 inuse:0
+  229 inuse:0
+  230 inuse:0
+  231 inuse:0
+  232 inuse:0
+  233 inuse:0
+  234 inuse:0
+  235 inuse:0
+  236 inuse:0
+  237 inuse:0
+  238 inuse:0
+  239 inuse:0
+  240 inuse:0
+  241 inuse:0
+  242 inuse:0
+  243 inuse:0
+  244 inuse:0
+  245 inuse:0
+  246 inuse:0
+  247 inuse:0
+  248 inuse:0
+  249 inuse:0
+  250 inuse:0
+  251 inuse:0
+  252 inuse:0
+  253 inuse:0
+  254 inuse:0
+  255 inuse:0
+  256 inuse:0
+  257 inuse:0
+  258 inuse:0
+  259 inuse:0
+  260 inuse:0
+  261 inuse:0
+  262 inuse:0
+  263 inuse:0
+  264 inuse:0
+  265 inuse:0
+  266 inuse:0
+  267 inuse:0
+  268 inuse:0
+  269 inuse:0
+  270 inuse:0
+  271 inuse:0
+  272 inuse:0
+  273 inuse:0
+  274 inuse:0
+  275 inuse:0
+  276 inuse:0
+  277 inuse:0
+  278 inuse:0
+  279 inuse:0
+  280 inuse:0
+  281 inuse:0
+  282 inuse:0
+  283 inuse:0
+  284 inuse:0
+  285 inuse:0
+  286 inuse:0
+  287 inuse:0
+  288 inuse:0
+  289 inuse:0
+  290 inuse:0
+  291 inuse:0
+  292 inuse:0
+  293 inuse:0
+  294 inuse:0
+  295 inuse:0
+  296 inuse:0
+  297 inuse:0
+  298 inuse:0
+  299 inuse:0
+  300 inuse:0
+  301 inuse:0
+  302 inuse:0
+  303 inuse:0
+  304 inuse:0
+  305 inuse:0
+  306 inuse:0
+  307 inuse:0
+  308 inuse:0
+  309 inuse:0
+  310 inuse:0
+  311 inuse:0
+  312 inuse:0
+  313 inuse:0
+  314 inuse:0
+  315 inuse:0
+  316 inuse:0
+  317 inuse:0
+  318 inuse:0
+  319 inuse:0
+  320 inuse:0
+  321 inuse:0
+  322 inuse:0
+  323 inuse:0
+  324 inuse:0
+  325 inuse:0
+  326 inuse:0
+  327 inuse:0
+  328 inuse:0
+  329 inuse:0
+  330 inuse:0
+  331 inuse:0
+  332 inuse:0
+  333 inuse:0
+  334 inuse:0
+  335 inuse:0
+  336 inuse:0
+  337 inuse:0
+  338 inuse:0
+  339 inuse:0
+  340 inuse:0
+  341 inuse:0
+  342 inuse:0
+  343 inuse:0
+  344 inuse:0
+  345 inuse:0
+  346 inuse:0
+  347 inuse:0
+  348 inuse:0
+  349 inuse:0
+  350 inuse:0
+  351 inuse:0
+  352 inuse:0
+  353 inuse:0
+  354 inuse:0
+  355 inuse:0
+  356 inuse:0
+  357 inuse:0
+  358 inuse:0
+  359 inuse:0
+  360 inuse:0
+  361 inuse:0
+  362 inuse:0
+  363 inuse:0
+  364 inuse:0
+  365 inuse:0
+  366 inuse:0
+  367 inuse:0
+  368 inuse:0
+  369 inuse:0
+  370 inuse:0
+  371 inuse:0
+  372 inuse:0
+  373 inuse:0
+  374 inuse:0
+  375 inuse:0
+  376 inuse:0
+  377 inuse:0
+  378 inuse:0
+  379 inuse:0
+  380 inuse:0
+  381 inuse:0
+  382 inuse:0
+  383 inuse:0
+  384 inuse:0
+  385 inuse:0
+  386 inuse:0
+  387 inuse:0
+  388 inuse:0
+  389 inuse:0
+  390 inuse:0
+  391 inuse:0
+  392 inuse:0
+  393 inuse:0
+  394 inuse:0
+  395 inuse:0
+  396 inuse:0
+  397 inuse:0
+  398 inuse:0
+  399 inuse:0
+  400 inuse:0
+  401 inuse:0
+  402 inuse:0
+  403 inuse:0
+  404 inuse:0
+  405 inuse:0
+  406 inuse:0
+  407 inuse:0
+  408 inuse:0
+  409 inuse:0
+  410 inuse:0
+  411 inuse:0
+  412 inuse:0
+  413 inuse:0
+  414 inuse:0
+  415 inuse:0
+  416 inuse:0
+  417 inuse:0
+  418 inuse:0
+  419 inuse:0
+  420 inuse:0
+  421 inuse:0
+  422 inuse:0
+  423 inuse:0
+  424 inuse:0
+  425 inuse:0
+  426 inuse:0
+  427 inuse:0
+  428 inuse:0
+  429 inuse:0
+  430 inuse:0
+  431 inuse:0
+  432 inuse:0
+  433 inuse:0
+  434 inuse:0
+  435 inuse:0
+  436 inuse:0
+  437 inuse:0
+  438 inuse:0
+  439 inuse:0
+  440 inuse:0
+  441 inuse:0
+  442 inuse:0
+  443 inuse:0
+  444 inuse:0
+  445 inuse:0
+  446 inuse:0
+  447 inuse:0
+  448 inuse:0
+  449 inuse:0
+  450 inuse:0
+  451 inuse:0
+  452 inuse:0
+  453 inuse:0
+  454 inuse:0
+  455 inuse:0
+  456 inuse:0
+  457 inuse:0
+  458 inuse:0
+  459 inuse:0
+  460 inuse:0
+  461 inuse:0
+  462 inuse:0
+  463 inuse:0
+  464 inuse:0
+  465 inuse:0
+  466 inuse:0
+  467 inuse:0
+  468 inuse:0
+  469 inuse:0
+  470 inuse:0
+  471 inuse:0
+  472 inuse:0
+  473 inuse:0
+  474 inuse:0
+  475 inuse:0
+  476 inuse:0
+  477 inuse:0
+  478 inuse:0
+  479 inuse:0
+  480 inuse:0
+  481 inuse:0
+  482 inuse:0
+  483 inuse:0
+  484 inuse:0
+  485 inuse:0
+  486 inuse:0
+  487 inuse:0
+  488 inuse:0
+  489 inuse:0
+  490 inuse:0
+  491 inuse:0
+  492 inuse:0
+  493 inuse:0
+  494 inuse:0
+  495 inuse:0
+  496 inuse:0
+  497 inuse:0
+  498 inuse:0
+  499 inuse:0
+  500 inuse:0
+  501 inuse:0
+  502 inuse:0
+  503 inuse:0
+  504 inuse:0
+  505 inuse:0
+  506 inuse:0
+  507 inuse:0
+  508 inuse:0
+  509 inuse:0
+  510 inuse:0
+  511 inuse:0
+  512 inuse:0
+  513 inuse:0
+  514 inuse:0
+  515 inuse:0
+  516 inuse:0
+  517 inuse:0
+  518 inuse:0
+  519 inuse:0
+  520 inuse:0
+  521 inuse:0
+  522 inuse:0
+  523 inuse:0
+  524 inuse:0
+  525 inuse:0
+  526 inuse:0
+  527 inuse:0
+  528 inuse:0
+  529 inuse:0
+  530 inuse:0
+  531 inuse:0
+  532 inuse:0
+  533 inuse:0
+  534 inuse:0
+  535 inuse:0
+  536 inuse:0
+  537 inuse:0
+  538 inuse:0
+  539 inuse:0
+  540 inuse:0
+  541 inuse:0
+  542 inuse:0
+  543 inuse:0
+  544 inuse:0
+  545 inuse:0
+  546 inuse:0
+  547 inuse:0
+  548 inuse:0
+  549 inuse:0
+  550 inuse:0
+  551 inuse:0
+  552 inuse:0
+  553 inuse:0
+  554 inuse:0
+  555 inuse:0
+  556 inuse:0
+  557 inuse:0
+  558 inuse:0
+  559 inuse:0
+  560 inuse:0
+  561 inuse:0
+  562 inuse:0
+  563 inuse:0
+  564 inuse:0
+  565 inuse:0
+  566 inuse:0
+  567 inuse:0
+  568 inuse:0
+  569 inuse:0
+  570 inuse:0
+  571 inuse:0
+  572 inuse:0
+  573 inuse:0
+  574 inuse:0
+  575 inuse:0
+  576 inuse:0
+  577 inuse:0
+  578 inuse:0
+  579 inuse:0
+  580 inuse:0
+  581 inuse:0
+  582 inuse:0
+  583 inuse:0
+  584 inuse:0
+  585 inuse:0
+  586 inuse:0
+  587 inuse:0
+  588 inuse:0
+  589 inuse:0
+  590 inuse:0
+  591 inuse:0
+  592 inuse:0
+  593 inuse:0
+  594 inuse:0
+  595 inuse:0
+  596 inuse:0
+  597 inuse:0
+  598 inuse:0
+  599 inuse:0
+  600 inuse:0
+  601 inuse:0
+  602 inuse:0
+  603 inuse:0
+  604 inuse:0
+  605 inuse:0
+  606 inuse:0
+  607 inuse:0
+  608 inuse:0
+  609 inuse:0
+  610 inuse:0
+  611 inuse:0
+  612 inuse:0
+  613 inuse:0
+  614 inuse:0
+  615 inuse:0
+  616 inuse:0
+  617 inuse:0
+  618 inuse:0
+  619 inuse:0
+  620 inuse:0
+  621 inuse:0
+  622 inuse:0
+  623 inuse:0
+  624 inuse:0
+  625 inuse:0
+  626 inuse:0
+  627 inuse:0
+  628 inuse:0
+  629 inuse:0
+  630 inuse:0
+  631 inuse:0
+  632 inuse:0
+  633 inuse:0
+  634 inuse:0
+  635 inuse:0
+  636 inuse:0
+  637 inuse:0
+  638 inuse:0
+  639 inuse:0
+  640 inuse:0
+  641 inuse:0
+  642 inuse:0
+  643 inuse:0
+  644 inuse:0
+  645 inuse:0
+  646 inuse:0
+  647 inuse:0
+  648 inuse:0
+  649 inuse:0
+  650 inuse:0
+  651 inuse:0
+  652 inuse:0
+  653 inuse:0
+  654 inuse:0
+  655 inuse:0
+  656 inuse:0
+  657 inuse:0
+  658 inuse:0
+  659 inuse:0
+  660 inuse:0
+  661 inuse:0
+  662 inuse:0
+  663 inuse:0
+  664 inuse:0
+  665 inuse:0
+  666 inuse:0
+  667 inuse:0
+  668 inuse:0
+  669 inuse:0
+  670 inuse:0
+  671 inuse:0
+  672 inuse:0
+  673 inuse:0
+  674 inuse:0
+  675 inuse:0
+  676 inuse:0
+  677 inuse:0
+  678 inuse:0
+  679 inuse:0
+  680 inuse:0
+  681 inuse:0
+  682 inuse:0
+  683 inuse:0
+  684 inuse:0
+  685 inuse:0
+  686 inuse:0
+  687 inuse:0
+  688 inuse:0
+  689 inuse:0
+  690 inuse:0
+  691 inuse:0
+  692 inuse:0
+  693 inuse:0
+  694 inuse:0
+  695 inuse:0
+  696 inuse:0
+  697 inuse:0
+  698 inuse:0
+  699 inuse:0
+  700 inuse:0
+  701 inuse:0
+  702 inuse:0
+  703 inuse:0
+  704 inuse:0
+  705 inuse:0
+  706 inuse:0
+  707 inuse:0
+  708 inuse:0
+  709 inuse:0
+  710 inuse:0
+  711 inuse:0
+  712 inuse:0
+  713 inuse:0
+  714 inuse:0
+  715 inuse:0
+  716 inuse:0
+  717 inuse:0
+  718 inuse:0
+  719 inuse:0
+  720 inuse:0
+  721 inuse:0
+  722 inuse:0
+  723 inuse:0
+  724 inuse:0
+  725 inuse:0
+  726 inuse:0
+  727 inuse:0
+  728 inuse:0
+  729 inuse:0
+  730 inuse:0
+  731 inuse:0
+  732 inuse:0
+  733 inuse:0
+  734 inuse:0
+  735 inuse:0
+  736 inuse:0
+  737 inuse:0
+  738 inuse:0
+  739 inuse:0
+  740 inuse:0
+  741 inuse:0
+  742 inuse:0
+  743 inuse:0
+  744 inuse:0
+  745 inuse:0
+  746 inuse:0
+  747 inuse:0
+  748 inuse:0
+  749 inuse:0
+  750 inuse:0
+  751 inuse:0
+  752 inuse:0
+  753 inuse:0
+  754 inuse:0
+  755 inuse:0
+  756 inuse:0
+  757 inuse:0
+  758 inuse:0
+  759 inuse:0
+  760 inuse:0
+  761 inuse:0
+  762 inuse:0
+  763 inuse:0
+  764 inuse:0
+  765 inuse:0
+  766 inuse:0
+  767 inuse:0
+  768 inuse:0
+  769 inuse:0
+  770 inuse:0
+  771 inuse:0
+  772 inuse:0
+  773 inuse:0
+  774 inuse:0
+  775 inuse:0
+  776 inuse:0
+  777 inuse:0
+  778 inuse:0
+  779 inuse:0
+  780 inuse:0
+  781 inuse:0
+  782 inuse:0
+  783 inuse:0
+  784 inuse:0
+  785 inuse:0
+  786 inuse:0
+  787 inuse:0
+  788 inuse:0
+  789 inuse:0
+  790 inuse:0
+  791 inuse:0
+  792 inuse:0
+  793 inuse:0
+  794 inuse:0
+  795 inuse:0
+  796 inuse:0
+  797 inuse:0
+  798 inuse:0
+  799 inuse:0
+  800 inuse:0
+  801 inuse:0
+  802 inuse:0
+  803 inuse:0
+  804 inuse:0
+  805 inuse:0
+  806 inuse:0
+  807 inuse:0
+  808 inuse:0
+  809 inuse:0
+  810 inuse:0
+  811 inuse:0
+  812 inuse:0
+  813 inuse:0
+  814 inuse:0
+  815 inuse:0
+  816 inuse:0
+  817 inuse:0
+  818 inuse:0
+  819 inuse:0
+  820 inuse:0
+  821 inuse:0
+  822 inuse:0
+  823 inuse:0
+  824 inuse:0
+  825 inuse:0
+  826 inuse:0
+  827 inuse:0
+  828 inuse:0
+  829 inuse:0
+  830 inuse:0
+  831 inuse:0
+  832 inuse:0
+  833 inuse:0
+  834 inuse:0
+  835 inuse:0
+  836 inuse:0
+  837 inuse:0
+  838 inuse:0
+  839 inuse:0
+  840 inuse:0
+  841 inuse:0
+  842 inuse:0
+  843 inuse:0
+  844 inuse:0
+  845 inuse:0
+  846 inuse:0
+  847 inuse:0
+  848 inuse:0
+  849 inuse:0
+  850 inuse:0
+  851 inuse:0
+  852 inuse:0
+  853 inuse:0
+  854 inuse:0
+  855 inuse:0
+  856 inuse:0
+  857 inuse:0
+  858 inuse:0
+  859 inuse:0
+  860 inuse:0
+  861 inuse:0
+  862 inuse:0
+  863 inuse:0
+  864 inuse:0
+  865 inuse:0
+  866 inuse:0
+  867 inuse:0
+  868 inuse:0
+  869 inuse:0
+  870 inuse:0
+  871 inuse:0
+  872 inuse:0
+  873 inuse:0
+  874 inuse:0
+  875 inuse:0
+  876 inuse:0
+  877 inuse:0
+  878 inuse:0
+  879 inuse:0
+  880 inuse:0
+  881 inuse:0
+  882 inuse:0
+  883 inuse:0
+  884 inuse:0
+  885 inuse:0
+  886 inuse:0
+  887 inuse:0
+  888 inuse:0
+  889 inuse:0
+  890 inuse:0
+  891 inuse:0
+  892 inuse:0
+  893 inuse:0
+  894 inuse:0
+  895 inuse:0
+  896 inuse:0
+  897 inuse:0
+  898 inuse:0
+  899 inuse:0
+  900 inuse:0
+  901 inuse:0
+  902 inuse:0
+  903 inuse:0
+  904 inuse:0
+  905 inuse:0
+  906 inuse:0
+  907 inuse:0
+  908 inuse:0
+  909 inuse:0
+  910 inuse:0
+  911 inuse:0
+  912 inuse:0
+  913 inuse:0
+  914 inuse:0
+  915 inuse:0
+  916 inuse:0
+  917 inuse:0
+  918 inuse:0
+  919 inuse:0
+  920 inuse:0
+  921 inuse:0
+  922 inuse:0
+  923 inuse:0
+  924 inuse:0
+  925 inuse:0
+  926 inuse:0
+  927 inuse:0
+  928 inuse:0
+  929 inuse:0
+  930 inuse:0
+  931 inuse:0
+  932 inuse:0
+  933 inuse:0
+  934 inuse:0
+  935 inuse:0
+  936 inuse:0
+  937 inuse:0
+  938 inuse:0
+  939 inuse:0
+  940 inuse:0
+  941 inuse:0
+  942 inuse:0
+  943 inuse:0
+  944 inuse:0
+  945 inuse:0
+  946 inuse:0
+  947 inuse:0
+  948 inuse:0
+  949 inuse:0
+  950 inuse:0
+  951 inuse:0
+  952 inuse:0
+  953 inuse:0
+  954 inuse:0
+  955 inuse:0
+  956 inuse:0
+  957 inuse:0
+  958 inuse:0
+  959 inuse:0
+  960 inuse:0
+  961 inuse:0
+  962 inuse:0
+  963 inuse:0
+  964 inuse:0
+  965 inuse:0
+  966 inuse:0
+  967 inuse:0
+  968 inuse:0
+  969 inuse:0
+  970 inuse:0
+  971 inuse:0
+  972 inuse:0
+  973 inuse:0
+  974 inuse:0
+  975 inuse:0
+  976 inuse:0
+  977 inuse:0
+  978 inuse:0
+  979 inuse:0
+  980 inuse:0
+  981 inuse:0
+  982 inuse:0
+  983 inuse:0
+  984 inuse:0
+  985 inuse:0
+  986 inuse:0
+  987 inuse:0
+  988 inuse:0
+  989 inuse:0
+  990 inuse:0
+  991 inuse:0
+  992 inuse:0
+  993 inuse:0
+  994 inuse:0
+  995 inuse:0
+  996 inuse:0
+  997 inuse:0
+  998 inuse:0
+  999 inuse:0
+  TTL BS blocks inuse:0
+  TTL BS blocks read:0
+  TTL BS blocks write:0
+Pages referenced: 1000000
+Pages mapped: 100
+Page misses: 9896
+Frames taken: 9797
+Frames written to disk: 0
+Frames recovered from disk: 0

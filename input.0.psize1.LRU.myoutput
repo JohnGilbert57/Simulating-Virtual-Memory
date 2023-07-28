@@ -1,0 +1,58 @@
+Page size: 1
+Num frames: 5
+Num pages: 40
+Num backing blocks: 10
+Reclaim algorithm: LRU
+Page Table
+    0 type:TAKEN framenum:-1 ondisk:0
+    1 type:UNMAPPED
+    2 type:UNMAPPED
+    3 type:UNMAPPED
+    4 type:UNMAPPED
+    5 type:TAKEN framenum:-1 ondisk:0
+    6 type:UNMAPPED
+    7 type:UNMAPPED
+    8 type:UNMAPPED
+    9 type:UNMAPPED
+   10 type:TAKEN framenum:-1 ondisk:0
+   11 type:UNMAPPED
+   12 type:UNMAPPED
+   13 type:UNMAPPED
+   14 type:UNMAPPED
+   15 type:MAPPED framenum:3 ondisk:0
+   16 type:UNMAPPED
+   17 type:UNMAPPED
+   18 type:UNMAPPED
+   19 type:UNMAPPED
+   20 type:MAPPED framenum:4 ondisk:0
+   21 type:UNMAPPED
+   22 type:UNMAPPED
+   23 type:UNMAPPED
+   24 type:UNMAPPED
+   25 type:MAPPED framenum:0 ondisk:0
+   26 type:UNMAPPED
+   27 type:UNMAPPED
+   28 type:UNMAPPED
+   29 type:UNMAPPED
+   30 type:MAPPED framenum:1 ondisk:0
+   31 type:UNMAPPED
+   32 type:UNMAPPED
+   33 type:UNMAPPED
+   34 type:UNMAPPED
+   35 type:MAPPED framenum:2 ondisk:0
+   36 type:UNMAPPED
+   37 type:UNMAPPED
+   38 type:UNMAPPED
+   39 type:UNMAPPED
+Frame Table
+    0 inuse:1 dirty:0 first_use:6 last_use:6
+    1 inuse:1 dirty:0 first_use:7 last_use:7
+    2 inuse:1 dirty:0 first_use:8 last_use:8
+    3 inuse:1 dirty:0 first_use:4 last_use:4
+    4 inuse:1 dirty:0 first_use:5 last_use:5
+Pages referenced: 8
+Pages mapped: 8
+Page misses: 8
+Frames taken: 3
+Frames written to disk: 0
+Frames recovered from disk: 0
